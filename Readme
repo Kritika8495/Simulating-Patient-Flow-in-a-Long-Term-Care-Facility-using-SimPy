@@ -1,0 +1,13 @@
+# 🏥 LTC Patient Flow Simulation
+
+This project simulates the flow of patients through a long-term care (LTC) facility using SimPy. It evaluates resource usage, wait times, and service delays to support capacity planning in healthcare.
+
+## Features
+- Discrete-event simulation using `simpy`
+- Adjustable parameters for bed count, inter-arrival time, and length of stay
+- Interactive Jupyter/Colab support
+
+## Getting Started
+```bash
+git clone https://github.com/yourusername/ltc-patient-flow-simulation.git
+pip install -r requirements.txt
