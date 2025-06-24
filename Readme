@@ -2,6 +2,9 @@
 
 This project simulates the flow of patients through a long-term care (LTC) facility using SimPy. It evaluates resource usage, wait times, and service delays to support capacity planning in healthcare.
 
+## Motive
+This project simulates senior patient flow through a long-term care facility using SimPy. It models key constraints like limited bed capacity and variable lengths of stay. The goal is to explore system efficiency, identify bottlenecks, and evaluate policy interventions (e.g., increased beds, discharge protocols).
+
 ## Features
 - Discrete-event simulation using `simpy`
 - Adjustable parameters for bed count, inter-arrival time, and length of stay
